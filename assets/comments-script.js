@@ -18,19 +18,6 @@
     );
   }
 
-  /*
-    This is the important fix:
-
-    We always derive the HyvorTalk thread ID from the canonical URL,
-    not from the current browser URL.
-
-    That means:
-
-      /decisions/foo
-      /decisions/foo.html
-
-    will BOTH map to the SAME comment thread.
-  */
   function getCanonicalPathId() {
     const canonical = document.querySelector('link[rel="canonical"]')?.href;
     if (!canonical) return null;
