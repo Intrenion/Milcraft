@@ -27,10 +27,18 @@ TBD...
 
 TBD...
 
-### Military Innovation & Future Warfare
+### Intelligence & Information
 
 TBD...
 
-### Military Doctrine
+### Logistics & Support
+
+TBD...
+
+### Learning & Transformation
+
+TBD...
+
+### Innovation & Future Warfare
 
 TBD...
