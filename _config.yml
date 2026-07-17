@@ -1,4 +1,4 @@
-url: "https://www.verteidigungsentscheidungen.de"
+url: "https://www.milcraft.org"
 baseurl: ""
 
 permalink: pretty
@@ -6,4 +6,7 @@ permalink: pretty
 plugins:
   - jekyll-sitemap
 
-title: "Verteidigungsentscheidungen"
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
+title: "Milcraft"
