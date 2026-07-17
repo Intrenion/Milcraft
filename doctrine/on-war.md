@@ -15,7 +15,7 @@ date: 2026-07-17
 ## Copy Doctrine
 {:.no_toc}
 
-<div id="copy-doctrine"></div>
+<div id="copy-doctrine-widget"></div>
 
 ## Source
 {:.no_toc}
