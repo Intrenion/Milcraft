@@ -15,12 +15,7 @@ date: 2026-07-17
 ## Copy Doctrine
 {:.no_toc}
 
-<div class="copy-doctrine">
-  <div id="copy-doctrine-instructions"></div>
-  <p>
-    <button onclick="copyDoctrine()">Copy Doctrine</button>
-  </p>
-</div>
+<div id="copy-doctrine"></div>
 
 ## Source
 {:.no_toc}
