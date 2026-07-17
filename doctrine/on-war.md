@@ -181,7 +181,7 @@ Chapter: Book Two: On the Theory of War - Method and Routine
 ## Practice 13: Judge decisions from their original conditions
 
 **Problem**  
-Results alone can make a sound decision appear foolish or a poor decision appear wise.
+Results alone can make a sound decision appear foolish, or a poor decision appear wise.
 
 **Action**  
 Evaluate each choice using the information and options available at the time.
@@ -197,7 +197,7 @@ Chapter: Book Two: On the Theory of War - Critical Analysis
 Historical examples mislead when they are incomplete or removed from context.
 
 **Action**  
-Choose well documented cases and explain why each case supports the principle.
+Choose well-documented cases and explain why each case supports the principle.
 
 **Outcome**  
 Past events become practical evidence instead of decoration.
@@ -226,7 +226,7 @@ Military results depend on physical, moral, mathematical, geographical, and stat
 Assess all major elements before choosing a strategic course.
 
 **Outcome**  
-The plan reflects the full situation instead of one favored factor.
+The plan reflects the full situation rather than a single favored factor.
 
 Chapter: Book Three: On Strategy in General - Elements of Strategy
 
@@ -395,7 +395,7 @@ Lines, angles, and distances can distract leaders from combat power and purpose.
 Use geographical relationships only when they create a practical advantage.
 
 **Outcome**  
-Position supports the strategy without controlling it blindly.
+The position supports the strategy without blindly controlling it.
 
 Chapter: Book Three: On Strategy in General - The Geometrical Factor
 
@@ -457,7 +457,7 @@ Chapter: Book Four: The Engagement - Introduction
 Modern battle unfolds through many connected actions rather than one brief collision.
 
 **Action**  
-Plan command, reinforcement, and endurance for a long and changing engagement.
+Plan command, reinforcement, and endurance for a long, evolving engagement.
 
 **Outcome**  
 The force can maintain direction throughout the battle.
@@ -467,7 +467,7 @@ Chapter: Book Four: The Engagement - The Nature of Battle Today
 ## Practice 35: Define what each engagement must accomplish
 
 **Problem**  
-Combat without a clear purpose can spend lives without strategic value.
+Combat without a clear purpose can cost lives without strategic value.
 
 **Action**  
 State the specific military result required from each engagement.
@@ -496,7 +496,7 @@ Chapter: Book Four: The Engagement - The Engagement in General - Continued
 An enemy may yield because battle is possible even when no fighting occurs.
 
 **Action**  
-Position forces so a credible engagement supports the desired result.
+Position forces so that a credible engagement supports the desired result.
 
 **Outcome**  
 Military power can influence the enemy without unnecessary combat.
@@ -548,7 +548,7 @@ Chapter: Book Four: The Engagement - Mutual Agreement to Fight
 A battle remains undecided while the enemy still expects a favorable result.
 
 **Action**  
-Apply pressure until enemy order, reserves, and confidence collapse.
+Apply pressure until the enemy's order, reserves, and confidence collapse.
 
 **Outcome**  
 The enemy abandons the contest.
@@ -574,10 +574,10 @@ Chapter: Book Four: The Engagement - The Battle - Continued: The Effects of Vict
 Avoiding decisive combat can leave the enemy's main strength intact.
 
 **Action**  
-Use battle when destroying or disabling the enemy force serves the political aim.
+Use battle to destroy or disable the enemy force serves the political aim.
 
 **Outcome**  
-The campaign gains a result that lesser actions cannot provide.
+The campaign gains a result that fewer actions cannot provide.
 
 Chapter: Book Four: The Engagement - The Battle - Continued: The Use of Battle
 
@@ -613,7 +613,7 @@ Chapter: Book Four: The Engagement - Retreat after a Lost Battle
 Darkness increases confusion and weakens coordination.
 
 **Action**  
-Use night operations only with simple plans and well prepared troops.
+Use night operations only with simple plans and well-prepared troops.
 
 **Outcome**  
 Surprise is gained without creating unmanageable disorder.
@@ -655,7 +655,7 @@ Total numbers can hide the balance at the decisive place and time.
 Compare forces that can actually reach and influence the contest.
 
 **Outcome**  
-Commanders base decisions on effective strength.
+Commanders base their decisions on effective strength.
 
 Chapter: Book Five: Military Forces - Relative Strength
 
@@ -759,7 +759,7 @@ Columns on different roads can become unable to support one another.
 Set distances and meeting points that preserve mutual support.
 
 **Outcome**  
-The army gains movement capacity without dangerous separation.
+The army gains the ability to move without dangerous separation.
 
 Chapter: Book Five: Military Forces - Marches - Continued
 
@@ -792,7 +792,7 @@ Chapter: Book Five: Military Forces - Billets
 ## Practice 60: Make supply fit the operation
 
 **Problem**  
-An army loses freedom when food and equipment cannot follow its movements.
+An army loses freedom when food and equipment cannot keep pace with its movements.
 
 **Action**  
 Build supply methods around the campaign's distance, speed, and local resources.
@@ -857,10 +857,10 @@ Chapter: Book Five: Military Forces - The Command of Heights
 ## Practice 65: Use defense to create a stronger attack
 
 **Problem**  
-Defense can resist effectively but cannot achieve a positive result by itself.
+Defense can resist effectively but cannot achieve a positive result on its own.
 
 **Action**  
-Use defensive strength to prepare the right moment for offensive action.
+Use defensive strength to prepare for the right moment to launch an offensive.
 
 **Outcome**  
 Protection becomes the basis for gaining the initiative.
@@ -967,7 +967,7 @@ Simply holding ground leaves victory dependent on endless resistance.
 Receive the attack in strength and preserve force for a counterattack.
 
 **Outcome**  
-The defender can turn enemy exhaustion into decision.
+The defender can turn enemy exhaustion into a decision.
 
 Chapter: Book Six: Defense - The Defensive Battle
 
@@ -977,7 +977,7 @@ Chapter: Book Six: Defense - The Defensive Battle
 A fortress has limited value when it does not affect enemy choices.
 
 **Action**  
-Place and support fortresses where they protect routes or delay major forces.
+Place and support fortresses to protect routes or to delay major forces.
 
 **Outcome**  
 Fixed defenses influence the wider campaign.
@@ -1117,7 +1117,7 @@ Chapter: Book Six: Defense - Defense of Swamps
 ## Practice 85: Use controlled flooding with clear limits
 
 **Problem**  
-Flooding can damage friendly movement and resources along with enemy access.
+Flooding can damage friendly movement and resources, along with enemy access.
 
 **Action**  
 Create inundations only where their defensive value exceeds their local cost.
@@ -1244,10 +1244,10 @@ Resistance continues as the enemy advances.
 
 Chapter: Book Six: Defense - Defense of a Theater of Operations - Continued: Phased Resistance
 
-## Practice 95: Preserve strength when decision is unnecessary
+## Practice 95: Preserve strength when a decision is unnecessary
 
 **Problem**  
-A decisive battle can create needless risk when limited resistance serves the purpose.
+A decisive battle can create needless risk when limited resistance suffices.
 
 **Action**  
 Use delay, maneuver, and protected positions to deny easy enemy gains.
@@ -1312,10 +1312,10 @@ Chapter: Book Seven: The Attack - The Diminishing Force of the Attack
 ## Practice 100: Stop before the attack becomes weaker than the defense
 
 **Problem**  
-An advance can pass the point where new gains justify growing risk.
+An advance can reach the point where new gains no longer justify increasing risk.
 
 **Action**  
-Set conditions for stopping or shifting to defense before the campaign begins.
+Set conditions for when to stop or shift to defense before the campaign begins.
 
 **Outcome**  
 The army avoids turning success into defeat.
@@ -1351,10 +1351,10 @@ Chapter: Book Seven: The Attack - The Offensive Battle
 ## Practice 103: Cross rivers with speed and concentration
 
 **Problem**  
-A river crossing divides the attacker and creates a period of extreme weakness.
+A river crossing divides the attacker, creating a period of extreme weakness.
 
 **Action**  
-Concentrate support and move combat power across as quickly as possible.
+Concentrate support and move combat power as quickly as possible.
 
 **Outcome**  
 The bridgehead becomes secure before the defender can crush it.
@@ -1439,7 +1439,7 @@ The advance keeps enough order and support to fight.
 
 Chapter: Book Seven: The Attack - Attacks on Swamps, Flooded Areas, and Forests
 
-## Practice 110: Concentrate the theater attack on decision
+## Practice 110: Concentrate the theater attack on the decision
 
 **Problem**  
 Secondary gains can distract forces from defeating the enemy's main strength.
@@ -1452,7 +1452,7 @@ Offensive effort produces a decisive result.
 
 Chapter: Book Seven: The Attack - Attack on a Theater of War: Seeking a Decision
 
-## Practice 111: Limit the attack when decision is unnecessary
+## Practice 111: Limit the attack when the decision is unnecessary
 
 **Problem**  
 Seeking total defeat can demand more strength than the political aim requires.
@@ -1562,7 +1562,7 @@ Chapter: Book Eight: War Plans - Introduction
 War in theory tends toward extremes that politics and limited resources often prevent.
 
 **Action**  
-Base the plan on the actual aims, strength, and commitment of both sides.
+Base the plan on the actual aims, strengths, and commitment of both sides.
 
 **Outcome**  
 The effort matches the war that will truly be fought.
@@ -1598,7 +1598,7 @@ Chapter: Book Eight: War Plans - Scale of the Military Objective and of the Effo
 ## Practice 122: Target the enemy's power to resist
 
 **Problem**  
-The enemy can continue the war while its army, capital, and alliances remain effective.
+The enemy can continue the war as long as its army, capital, and alliances remain effective.
 
 **Action**  
 Identify and defeat the main sources of organized resistance.
@@ -1624,10 +1624,10 @@ Chapter: Book Eight: War Plans - Closer Definition of the Military Objective - C
 ## Practice 124: Let political value set military effort
 
 **Problem**  
-The same military gain can have different value under different political aims.
+The same military gain can have different value depending on the political aims.
 
 **Action**  
-Increase or limit military effort according to the importance of the political result.
+Increase or limit military effort based on the importance of the political outcome.
 
 **Outcome**  
 The cost of war stays proportionate to its purpose.
