@@ -127,7 +127,7 @@ Chapter: The Landscape: Chaos in the Littorals - Population Factors
 Urban terrain limits movement and places civilians near military targets.
 
 **Action**  
-Train units to navigate dense terrain while controlling force and protecting civilians.
+Train units to navigate dense terrain while maintaining control of force and protecting civilians.
 
 **Outcome**  
 The force can achieve its purpose with less harm and confusion.
@@ -192,7 +192,7 @@ Chapter: The Nature of Expeditionary Operations - National Interests, Crisis Pre
 Forces operating abroad must function with limited local support.
 
 **Action**  
-Prepare a deployable force that can enter, operate, sustain itself, and leave.
+Prepare a deployable force capable of entering, operating, sustaining itself, and leaving.
 
 **Outcome**  
 The force can complete missions beyond its permanent bases.
@@ -202,7 +202,7 @@ Chapter: The Nature of Expeditionary Operations - Expeditionary Operations Defin
 ## Practice 15: Choose expeditionary action for a clear reason
 
 **Problem**  
-Deploying forces abroad creates cost, risk, and political consequences.
+Deploying forces abroad entails costs, risks, and political consequences.
 
 **Action**  
 Use expeditionary forces only when their presence can prevent, contain, or resolve a crisis.
@@ -377,7 +377,7 @@ Unclear force ownership can delay deployment and employment.
 Assign ready Marine forces to commands with defined responsibilities for preparation and support.
 
 **Outcome**  
-Commanders can provide organized forces when a crisis occurs.
+Commanders can provide organized forces in a crisis.
 
 Chapter: Expeditionary Organizations - Marine Corps Forces Commands
 
@@ -390,14 +390,14 @@ Separate combat and support units cannot act effectively without integration.
 Form each Marine Air-Ground Task Force around a command element with balanced capabilities.
 
 **Outcome**  
-One commander can direct a self contained combined force.
+One commander can direct a self-contained combined force.
 
 Chapter: Expeditionary Organizations - Marine Air-Ground Task Forces
 
 ## Practice 30: Build each MAGTF from four core elements
 
 **Problem**  
-A task force loses balance when command, ground, aviation, or support capabilities are missing.
+A task force loses balance when any of its command, ground, aviation, or support capabilities are missing.
 
 **Action**  
 Organize the MAGTF with command, ground combat, aviation combat, and service support elements.
@@ -452,10 +452,10 @@ Chapter: Expeditionary Organizations - The Special Purpose MAGTF
 Moving heavy equipment from the home station can delay a large deployment.
 
 **Action**  
-Store equipment and supplies on ships near regions of likely employment.
+Store equipment and supplies on ships in regions where employment is likely.
 
 **Outcome**  
-Personnel can fly in and form an operational force quickly.
+Personnel can fly in and quickly form an operational force.
 
 Chapter: Expeditionary Organizations - Maritime Prepositioning Forces
 
@@ -465,7 +465,7 @@ Chapter: Expeditionary Organizations - Maritime Prepositioning Forces
 A crisis may require action before sea transport can deliver equipment.
 
 **Action**  
-Keep selected units ready to deploy by air with mission specific equipment.
+Keep selected units ready to deploy by air with mission-specific equipment.
 
 **Outcome**  
 A capable force can reach the crisis rapidly.
@@ -475,7 +475,7 @@ Chapter: Expeditionary Organizations - Air Contingency Forces
 ## Practice 36: Represent Marine capabilities at the joint level
 
 **Problem**  
-Joint commanders may misuse Marine forces without informed service advice.
+Joint commanders may misuse Marine forces without informed advice from the service.
 
 **Action**  
 Use a Marine component command to plan, coordinate, and advocate Marine employment.
@@ -533,7 +533,7 @@ A defended island becomes costly to seize when enemy support remains intact.
 Use sea control, air power, fires, and maneuver to isolate the objective before landing.
 
 **Outcome**  
-The landing force faces a weaker and less supported defense.
+The landing force faces a weaker, less well-supported defense.
 
 Chapter: Expeditionary Concepts - Case Study: The Marianas, 1944
 
@@ -605,7 +605,7 @@ Chapter: Expeditionary Concepts - Maritime Prepositioning Force Operations
 ## Practice 46: Secure access before the force arrives
 
 **Problem**  
-Prepositioning operations can fail when ports, airfields, or host nation support are unavailable.
+Prepositioning operations can fail when ports, airfields, or host-nation support is unavailable.
 
 **Action**  
 Confirm access, security, infrastructure, and local support before beginning the deployment.
@@ -647,7 +647,7 @@ Chapter: Epilogue: Operation Littoral Chaos - Case Study: West Africa, 2017-18
 Future coastal crises will combine uncertain threats with urgent political demands.
 
 **Action**  
-Maintain naval forces that are ready, flexible, sustainable, and easy to tailor.
+Maintain naval forces that are ready, flexible, sustainable, and easily tailored.
 
 **Outcome**  
 National leaders retain credible options when littoral crises emerge.
