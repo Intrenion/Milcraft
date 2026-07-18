@@ -1,6 +1,6 @@
 ---
 title: "The Art of War (Sun Tzu)"
-date: 2026-07-17
+date: 2026-07-18
 ---
 
 # {{ page.title }}
