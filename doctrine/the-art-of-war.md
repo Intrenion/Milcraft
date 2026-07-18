@@ -171,7 +171,7 @@ Chapter: The Nine Situations
 A powerful attack can fail when timing and conditions are poorly controlled.
 
 **Action**  
-Act only when the target, timing, environment, and follow up plan support the attack.
+Act only when the target, timing, environment, and follow-up plan support the attack.
 
 **Outcome**  
 Controlled force creates impact without causing avoidable damage.
@@ -181,7 +181,7 @@ Chapter: Attack by Fire
 ## Practice 13: Verify facts through trusted sources
 
 **Problem**  
-Plans based on guesses can fail against hidden intentions and conditions.
+Plans based on guesses can fail in the face of hidden intentions and conditions.
 
 **Action**  
 Gather information from reliable people and confirm it before making important decisions.
