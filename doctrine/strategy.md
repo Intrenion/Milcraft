@@ -109,7 +109,7 @@ Repeated direct battles can exhaust even the winning army.
 Threaten enemy communications until the enemy must fight at a disadvantage.
 
 **Outcome**  
-You preserve strength while improving the chance of decision.
+You preserve strength while improving the chance of a decision.
 
 Chapter: Strategy From Fifth Century B.C. To Twentieth Century A.D. - The Eighteenth Century - Marlborough and Frederick
 
@@ -142,7 +142,7 @@ Chapter: Strategy From Fifth Century B.C. To Twentieth Century A.D. - 1854-1914
 ## Practice 10: Dislocate the enemy before fighting
 
 **Problem**  
-An enemy in a balanced position can resist an expected attack efficiently.
+An enemy in a balanced position can efficiently resist an expected attack.
 
 **Action**  
 Create physical or mental dislocation before seeking decisive combat.
@@ -207,7 +207,7 @@ Chapter: Strategy of the First World War - The Strategy of 1918
 ## Practice 15: Isolate opponents before using force
 
 **Problem**  
-Opponents become much stronger when a threat causes them to unite.
+Opponents become much stronger when a threat unites them.
 
 **Action**  
 Use diplomacy to isolate one opponent before starting combat.
@@ -265,7 +265,7 @@ Fighting a balanced enemy turns strength against strength.
 Move so the enemy must fight from an unstable position.
 
 **Outcome**  
-You can gain a decision with less combat and lower cost.
+You can make a decision with less combat and lower cost.
 
 Chapter: Fundamentals of Strategy and Grand Strategy - The Theory of Strategy
 
@@ -282,13 +282,13 @@ You can change direction while keeping the initiative.
 
 Chapter: Fundamentals of Strategy and Grand Strategy - The Concentrated Essence of Strategy and Tactics
 
-## Practice 21: Set the military aim from the national object
+## Practice 21: Set the military aim from the national objective
 
 **Problem**  
 Military victory becomes wasteful when it exceeds the political purpose.
 
 **Action**  
-Set the military aim at the minimum required to secure the national object.
+Set the military aim at the minimum required to secure the national objective.
 
 **Outcome**  
 The cost of war stays proportional to its value.
@@ -314,7 +314,7 @@ Chapter: Fundamentals of Strategy and Grand Strategy - Grand Strategy
 A stronger conventional force dominates concentrated battles and fixed positions.
 
 **Action**  
-Disperse small units to threaten its communications repeatedly.
+Disperse small units to repeatedly threaten its communications.
 
 **Outcome**  
 The stronger force spreads out and loses effective concentration.
