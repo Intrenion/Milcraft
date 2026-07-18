@@ -49,7 +49,7 @@ Chapter: The Nature of Planning - The Value of Planning
 Different military problems require different kinds of preparation.
 
 **Action**  
-Choose the planning category that fits the purpose of the mission.
+Choose the planning category that best fits the mission's purpose.
 
 **Outcome**  
 Planning effort supports the actual decision at hand.
@@ -78,7 +78,7 @@ Commanders cannot direct coordinated action without shared understanding.
 Use planning to communicate intent and guide subordinate decisions.
 
 **Outcome**  
-The force acts with common purpose.
+The force acts with a common purpose.
 
 Chapter: The Nature of Planning - Planning as Command and Control
 
@@ -179,7 +179,7 @@ Chapter: Planning Theory - The Planning Process
 Breaking a problem into parts does not reveal how the whole situation will behave.
 
 **Action**  
-Analyze key parts and then combine them into a coherent course of action.
+Analyze the key parts, then combine them into a coherent course of action.
 
 **Outcome**  
 The plan reflects both important details and the larger situation.
@@ -306,7 +306,7 @@ Chapter: Planning Theory - Simplicity and Complexity
 ## Practice 23: Use planning theory as a guide
 
 **Problem**  
-Rigid use of a planning model can ignore the needs of the situation.
+Rigid adherence to a planning model can overlook the needs of the situation.
 
 **Action**  
 Apply planning ideas with judgment instead of following a fixed formula.
@@ -410,7 +410,7 @@ Chapter: Planning Effectively - Planning in Time
 ## Practice 31: Shape conditions before decisive action
 
 **Problem**  
-Waiting for ideal conditions gives the enemy and environment control of events.
+Waiting for ideal conditions gives the enemy and the environment control of events.
 
 **Action**  
 Use early actions to create conditions that favor the main effort.
