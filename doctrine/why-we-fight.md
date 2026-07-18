@@ -117,7 +117,7 @@ Concentrated power allows a small group to choose war without broad consent.
 Require independent institutions and affected groups to approve major uses of force.
 
 **Outcome**  
-Reckless leaders face stronger limits on decisions that could cause war.
+Reckless leaders face stricter limits on decisions that could lead to war.
 
 Chapter: The Paths to Peace - Checks and Balances
 
