@@ -62,7 +62,7 @@ Chapter: The Fury of the Legions: The French Army in Indochina and Algeria
 A rapid military response can turn a limited crisis into a wider war.
 
 **Action**  
-Test several options before choosing an action that cannot be reversed.
+Test several options before choosing an irreversible action.
 
 **Outcome**  
 Leaders gain time to resolve the crisis without unnecessary escalation.
@@ -215,7 +215,7 @@ Chapter: A Tale of Two Surges: Iraq 2006-7
 ## Practice 16: Make civilian security the center of the campaign
 
 **Problem**  
-Armed groups recover when the population expects violence and weak government.
+Armed groups recover when the population expects violence and a weak government.
 
 **Action**  
 Protect communities while helping local authorities provide reliable security.
