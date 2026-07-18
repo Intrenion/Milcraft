@@ -75,7 +75,7 @@ Chapter: Part I - Disruptive Technologies: Catching the Wave
 Threats of punishment become less credible when enemies can limit damage or doubt the will to retaliate.
 
 **Action**  
-Create resilient defenses that make an enemy unlikely to achieve its military aims.
+Create resilient defenses that make it unlikely for an enemy to achieve its military aims.
 
 **Outcome**  
 Deterrence becomes stronger because aggression offers fewer gains.
@@ -101,7 +101,7 @@ Chapter: Part II - Introduction
 Separate changes in ships, bases, personnel, and strategy can work against one another.
 
 **Action**  
-Link new technology, operating methods, organization, and resource choices within one plan.
+Link new technology, operating methods, organization, and resource choices into a single plan.
 
 **Outcome**  
 Coordinated reforms produce greater military value from limited resources.
@@ -166,7 +166,7 @@ Chapter: Part II - Echoes of History
 Recognizing a military change has little value when institutions delay practical preparation.
 
 **Action**  
-Fund experiments and field limited capabilities while uncertainty remains.
+Fund experiments and field-limited capabilities while uncertainty remains.
 
 **Outcome**  
 Steady preparation reduces the risk of strategic surprise.
