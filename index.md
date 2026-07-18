@@ -30,6 +30,9 @@ title: "Milcraft"
 - [**On Operations**: Operational Art and Military Disciplines (Brett A. Friedman)](/doctrine/on-operations)
 - [**The Origins of Victory**: How Disruptive Military Innovation Determines the Fates of Great Powers (Andrew F. Krepinevich Jr.)](/doctrine/the-origins-of-victory)
 - [**U.S. Marine Corps Doctrinal Publication - Campaigning**](/doctrine/us-marine-corps-doctrinal-publication-campaigning)
+- [**U.S. Marine Corps Doctrinal Publication - Expeditionary Operations**](/doctrine/us-marine-corps-doctrinal-publication-expeditionary-operations)
+- [**U.S. Marine Corps Doctrinal Publication - Marine Corps Planning Process**](/doctrine/us-marine-corps-doctrinal-publication-marine-corps-planning-process)
+- [**U.S. Marine Corps Doctrinal Publication - Planning**](/doctrine/us-marine-corps-doctrinal-publication-planning)
 
 ### Tactics
 
