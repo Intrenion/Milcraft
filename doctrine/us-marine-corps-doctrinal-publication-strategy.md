@@ -127,7 +127,7 @@ Chapter: The Strategic Environment - The Trinity
 Separate national efforts can work against one another.
 
 **Action**  
-Combine political, economic, informational, and military means under one strategy.
+Combine political, economic, informational, and military means into a single strategy.
 
 **Outcome**  
 Every instrument supports the same national purpose.
@@ -205,7 +205,7 @@ Chapter: Strategy: Ends and Means - Ends in Military Strategy - Relationship Bet
 Different enemies require different ways of breaking their resistance.
 
 **Action**  
-Choose erosion to exhaust enemy will or annihilation to destroy enemy capacity.
+Choose erosion to exhaust the enemy's will or annihilation to destroy the enemy's capacity.
 
 **Outcome**  
 Military effort attacks the source of resistance most relevant to victory.
@@ -215,7 +215,7 @@ Chapter: Strategy: Ends and Means - Ends in Military Strategy - Distinguishing B
 ## Practice 16: Combine defense and offense
 
 **Problem**  
-Pure defense gives the enemy freedom while constant offense can waste strength.
+Pure defense gives the enemy freedom, while constant offense can waste strength.
 
 **Action**  
 Use defense to preserve advantages and offense to create decisive change.
@@ -234,7 +234,7 @@ Matching an enemy's strengths can cause unnecessary losses.
 Attack through methods or domains where the enemy is less prepared.
 
 **Outcome**  
-Available strength produces greater effect against enemy weakness.
+Available strength produces a greater effect against enemy weakness.
 
 Chapter: Strategic Opposites - Symmetrical and Asymmetrical Strategies
 
@@ -260,7 +260,7 @@ A standard response can ignore decisive features of a conflict.
 Adapt the strategy to the opponent, objective, environment, and available means.
 
 **Outcome**  
-The approach fits the conditions that determine success.
+The approach meets the conditions for success.
 
 Chapter: Strategic Opposites - Standardized or Tailored Strategies
 
@@ -293,7 +293,7 @@ Chapter: Strategic Opposites - Evaluating Opposing Strategies
 ## Practice 22: Conduct a strategic assessment
 
 **Problem**  
-Strategy built on weak assumptions misuses national power.
+A strategy built on weak assumptions misuses national power.
 
 **Action**  
 Assess interests, threats, actors, conditions, resources, and likely changes.
@@ -390,7 +390,7 @@ A detailed planning process can still produce a weak strategy.
 Judge the final strategy by its logic, feasibility, and political value.
 
 **Outcome**  
-Planning effort produces a useful decision instead of mere procedure.
+Planning effort yields a useful decision rather than a mere procedure.
 
 Chapter: The Making of Strategy - Strategy-Making Pitfalls - Emphasizing Process Over Product
 
@@ -410,10 +410,10 @@ Chapter: The Making of Strategy - Strategy-Making Pitfalls - The Fait Accompli
 ## Practice 31: Define the actual limits of war
 
 **Problem**  
-A war may expand when opponents assign different value to its stakes.
+A war may expand when opponents assign different values to its stakes.
 
 **Action**  
-Assess limits from the objectives and commitment of every major participant.
+Assess the limits of the objectives and commitments of every major participant.
 
 **Outcome**  
 The strategy better anticipates escalation and required effort.
