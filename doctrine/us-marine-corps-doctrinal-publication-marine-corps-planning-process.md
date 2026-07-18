@@ -43,7 +43,7 @@ The staff produces a complete plan through a shared process.
 
 Chapter: Planning Overview - Synopsis of the Marine Corps Planning Process
 
-## Practice 3: Keep planning flexible and commander led
+## Practice 3: Keep planning flexible and commander-led
 
 **Problem**  
 Rigid staff work can separate planning from the commander's judgment.
@@ -218,7 +218,7 @@ Chapter: Course of Action War Game - War Game Techniques
 A plan can appear sound when enemy reactions and changing conditions are ignored.
 
 **Action**  
-Examine each action through action, reaction, and counteraction.
+Examine each action through the lens of action, reaction, and counteraction.
 
 **Outcome**  
 The staff exposes likely risks and required decisions.
@@ -439,7 +439,7 @@ Chapter: Orders Development - Considerations
 Execution teams can lose planning knowledge during a rushed handoff.
 
 **Action**  
-Organize the people, products, facilities, and schedule needed for transition before the order is complete.
+Organize the people, products, facilities, and schedule needed for the transition before the order is complete.
 
 **Outcome**  
 The handoff transfers essential knowledge without delay.
