@@ -16,7 +16,9 @@ title: "Milcraft"
 
 ### Strategy
 
-TBD...
+- [**Command**: The Politics of Military Operations from Korea to Ukraine (Lawrence Freedman)](/doctrine/command)
+- [**Modern Strategy** (Colin S. Gray)](/doctrine/modern-strategy)
+- [**Makers of Modern Strategy**: From Machiavelli to the Nuclear Age (Peter Paret et al., Editor)](/doctrine/makers-of-modern-strategy)
 
 ### Operations
 
