@@ -176,7 +176,7 @@ Chapter: The Nature of Competition - Conclusion
 ## Practice 13: Tie every action to policy
 
 **Problem**  
-Activity without a political purpose can waste resources or create harmful effects.
+Activity without a political purpose can waste resources or cause harm.
 
 **Action**  
 Connect each competitive action to a specific policy goal.
@@ -572,7 +572,7 @@ Directly matching a competitor's strength wastes effort and time.
 Create and exploit advantages at vulnerable points in the competitor's system.
 
 **Outcome**  
-Limited resources produce greater competitive effect.
+Limited resources produce a greater competitive effect.
 
 Chapter: The Conduct of Competition - Maneuver Warfare's Influence
 
@@ -585,7 +585,7 @@ Activity has little value if it does not affect the competitor.
 Design actions around the choices and vulnerabilities of the specific rival.
 
 **Outcome**  
-Your efforts change rival behavior more directly.
+Your efforts directly change rival behavior.
 
 Chapter: The Conduct of Competition - Orienting on the Competitor
 
@@ -605,7 +605,7 @@ Chapter: The Conduct of Competition - Shaping the Action
 ## Practice 46: Combine effects against one vulnerability
 
 **Problem**  
-Separate capabilities allow a competitor to answer each action alone.
+Separate capabilities allow a competitor to respond to each action individually.
 
 **Action**  
 Coordinate different capabilities to create several problems around one objective.
