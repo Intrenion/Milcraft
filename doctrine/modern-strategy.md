@@ -26,7 +26,7 @@ Plans fail when they separate military action from the conditions that shape it.
 Test every plan against its political, human, economic, technological, geographic, and military conditions.
 
 **Outcome**  
-The strategy stays workable across the full conflict.
+The strategy remains viable throughout the conflict.
 
 Chapter: The Dimensions of Strategy
 
@@ -114,7 +114,7 @@ Chapter: Patterns in Strategic Experience
 Land and sea forces operate under different physical demands.
 
 **Action**  
-Assign land and sea forces according to the control, access, and movement each environment requires.
+Assign land and sea forces according to the control, access, and movement requirements of each environment.
 
 **Outcome**  
 Combined action uses the strengths of each environment.
@@ -143,7 +143,7 @@ Methods built for major war can worsen conflicts fought among civilians for limi
 Choose every use of force by how well it supports civilian safety and the local political settlement.
 
 **Outcome**  
-Military action strengthens legitimacy instead of feeding resistance.
+Military action strengthens legitimacy rather than fueling resistance.
 
 Chapter: Small Wars and Other Savage Violence
 
@@ -163,7 +163,7 @@ Chapter: Second Thoughts on Nuclear Weapons
 ## Practice 12: Place nuclear weapons in strategic history
 
 **Problem**  
-Treating the nuclear age as completely unique hides continuities in deterrence and competition.
+Treating the nuclear age as entirely unique overlooks the continuities in deterrence and competition.
 
 **Action**  
 Compare nuclear behavior with earlier patterns of coercion, restraint, arms rivalry, and alliance politics.
