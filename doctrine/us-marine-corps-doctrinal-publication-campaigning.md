@@ -124,7 +124,7 @@ Chapter: The Campaign - Battles and Engagements
 ## Practice 9: Pursue the strategic aim beyond tactical setbacks
 
 **Problem**  
-Tactical success can hide strategic failure when it does not change the wider situation.
+Tactical success can mask strategic failure when it does not alter the broader situation.
 
 **Action**  
 Judge each operation by its effect on the enemy's ability to continue the campaign.
@@ -182,7 +182,7 @@ Repeated battlefield victories cannot save a campaign built on a failing strateg
 Adapt tactical methods when their costs no longer support the strategic aim.
 
 **Outcome**  
-Battlefield performance serves long term campaign success.
+Battlefield performance serves long-term campaign success.
 
 Chapter: The Campaign - Tactics
 
@@ -244,7 +244,7 @@ Chapter: Designing the Campaign - Campaigning Under an Erosion Strategy
 Attacking every enemy weakness wastes effort on conditions that may not matter.
 
 **Action**  
-Identify the weaknesses whose exploitation can undermine a critical enemy strength.
+Identify the weaknesses that, if exploited, can undermine a critical enemy strength.
 
 **Outcome**  
 Limited actions create effects that threaten the enemy system.
@@ -364,7 +364,7 @@ Immediate battlefield demands can distract commanders from the campaign purpose.
 Review operations by their effect on the strategic conditions the campaign must create.
 
 **Outcome**  
-Short term decisions continue to support long term success.
+Short-term decisions continue to support long-term success.
 
 Chapter: Conducting the Campaign - Strategic Orientation
 
@@ -452,7 +452,7 @@ Chapter: Conducting the Campaign - Command and Control
 Direct attacks against enemy strength often cause unnecessary losses.
 
 **Action**  
-Move forces to place the enemy in a position where resistance becomes ineffective.
+Move forces to position the enemy where resistance becomes ineffective.
 
 **Outcome**  
 The force gains advantage without relying only on destruction.
@@ -507,7 +507,7 @@ Excessive caution can protect forces while preventing them from achieving the mi
 Reduce critical risks while accepting necessary exposure for decisive action.
 
 **Outcome**  
-The force remains effective and able to pursue the campaign aim.
+The force remains effective and capable of pursuing the campaign's aim.
 
 Chapter: Conducting the Campaign - Force Protection
 
