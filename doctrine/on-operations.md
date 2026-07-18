@@ -39,7 +39,7 @@ Temporary staff assignments prevent officers from building deep staff skills.
 Create a dedicated career path that develops officers for staff work.
 
 **Outcome**  
-The military gains lasting expertise for planning and coordinating operations.
+The military gains lasting expertise in planning and coordinating operations.
 
 Chapter: German Operational Thought
 
@@ -85,7 +85,7 @@ Chapter: The Operational Level and the Civil-Military Relationship
 ## Practice 6: Organize operational art around enabling disciplines
 
 **Problem**  
-Tactical forces cannot create strategic effect without coordinated staff support.
+Tactical forces cannot create a strategic effect without coordinated staff support.
 
 **Action**  
 Organize staff work around the disciplines needed to prepare and sustain tactics.
@@ -124,7 +124,7 @@ Chapter: Information
 ## Practice 9: Coordinate forces across time and space
 
 **Problem**  
-Separate tactical actions produce limited effects when they are not coordinated.
+Separate tactical actions have a limited effect when not coordinated.
 
 **Action**  
 Arrange forces and supporting arms to act together at the needed time and place.
@@ -140,7 +140,7 @@ Chapter: Operations
 Fire support wastes scarce resources when destruction becomes its only purpose.
 
 **Action**  
-Prioritize fire support according to the effect needed by the tactical plan.
+Prioritize fire support based on the effect required by the tactical plan.
 
 **Outcome**  
 Supporting weapons help tactical forces act with greater advantage.
@@ -247,6 +247,6 @@ An artificial operational level can separate tactical action from strategic purp
 Use staffs to prepare and sustain tactics in direct support of strategy.
 
 **Outcome**  
-Tactical success is more likely to produce useful strategic effect.
+Tactical success is more likely to produce a useful strategic effect.
 
 Chapter: Conclusion
