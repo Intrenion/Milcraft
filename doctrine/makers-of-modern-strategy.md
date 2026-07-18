@@ -91,11 +91,11 @@ Scattered operations waste strength on objectives that cannot decide the conflic
 Identify the decisive point and concentrate the main effort there.
 
 **Outcome**  
-Military action produces greater effect with the available force.
+Military action produces a greater effect with the available force.
 
 Chapter: The Expansion of War - Jomini
 
-## Practice 7: Make military action serve political purpose
+## Practice 7: Make military action serve a political purpose
 
 **Problem**  
 Military success has little value when it does not support the political goal.
@@ -137,7 +137,7 @@ Chapter: From the Industrial Revolution to the First World War - Engels and Marx
 ## Practice 10: Prepare commanders through a permanent planning staff
 
 **Problem**  
-Modern armies create planning demands that one commander cannot manage alone.
+Modern armies impose planning demands that no single commander can manage alone.
 
 **Action**  
 Maintain a trained staff that studies options and prepares coordinated plans.
@@ -247,7 +247,7 @@ Confidence in attack becomes deadly when weapons favor prepared defenders.
 Base offensive plans on realistic evidence about firepower and losses.
 
 **Outcome**  
-Commanders avoid attacks that spend lives without gaining useful results.
+Commanders avoid attacks that cost lives without gaining useful results.
 
 Chapter: From the First to the Second World War - Men against Fire: The Doctrine of the Offensive in 1914
 
