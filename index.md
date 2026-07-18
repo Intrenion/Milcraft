@@ -19,6 +19,11 @@ title: "Milcraft"
 - [**Command**: The Politics of Military Operations from Korea to Ukraine (Lawrence Freedman)](/doctrine/command)
 - [**Modern Strategy** (Colin S. Gray)](/doctrine/modern-strategy)
 - [**Makers of Modern Strategy**: From Machiavelli to the Nuclear Age (Peter Paret et al., Editor)](/doctrine/makers-of-modern-strategy)
+- [**The Strategy of Denial**: American Defense in an Age of Great Power Conflict (Elbridge A. Colby)](/doctrine/the-strategy-of-denial)
+- [**The Utility of Force**: The Art of War in the Modern World (Rupert Smith)](/doctrine/the-utility-of-force)
+- [**U.S. Marine Corps Doctrinal Publication - Competing**](/doctrine/us-marine-corps-doctrinal-publication-competing)
+- [**U.S. Marine Corps Doctrinal Publication - Strategy**](/doctrine/us-marine-corps-doctrinal-publication-strategy)
+- [**Why We Fight**: The Roots of War and the Paths to Peace (Christopher Blattman)](/doctrine/why-we-fight)
 
 ### Operations
 
