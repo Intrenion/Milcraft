@@ -137,10 +137,10 @@ Chapter: Theory of Information - Functions of Information
 ## Practice 10: Pair cognitive effects with functional effects
 
 **Problem**  
-A target may continue resisting when only its physical capability changes.
+A target may continue to resist even when only its physical capabilities change.
 
 **Action**  
-Define the required change in both target behavior and target function.
+Define the required changes to both the target behavior and the target function.
 
 **Outcome**  
 Objectives address what the target can do and chooses to do.
@@ -218,7 +218,7 @@ Chapter: Effective Use of Information - Information Advantages across the Compet
 An information advantage can disappear when audiences or conditions change.
 
 **Action**  
-Measure target responses and adjust information activities continuously.
+Measure target responses and continuously adjust information activities.
 
 **Outcome**  
 Information efforts stay aligned with the changing environment.
@@ -228,7 +228,7 @@ Chapter: Effective Use of Information - Conclusion
 ## Practice 17: Establish information as a distinct warfighting function
 
 **Problem**  
-Information effects receive uneven attention when no function owns their integration.
+Information effects receive uneven attention when no function is responsible for their integration.
 
 **Action**  
 Assign clear responsibility for planning and coordinating information activities.
@@ -241,7 +241,7 @@ Chapter: Institutionalizing Information - Distinguishing the Information Warfigh
 ## Practice 18: Integrate information with other warfighting functions
 
 **Problem**  
-Information plans lose impact when they are developed apart from other operations.
+Information plans lose their impact when developed in isolation from other operations.
 
 **Action**  
 Include information requirements and effects in every warfighting function.
@@ -257,7 +257,7 @@ Chapter: Institutionalizing Information - Information and the Other Warfighting 
 Late information planning cannot shape major operational choices.
 
 **Action**  
-Include information objectives, audiences, effects, and measures throughout planning.
+Include information on objectives, audiences, effects, and measures throughout planning.
 
 **Outcome**  
 Information influences the design and execution of the operation.
@@ -296,7 +296,7 @@ Chapter: Institutionalizing Information - Leveraging all Capabilities, and Ally 
 Training exercises send observable signals to competitors and partners.
 
 **Action**  
-Plan exercise activities to produce deliberate effects on real audiences.
+Plan exercise activities to deliberately affect real audiences.
 
 **Outcome**  
 Exercises shape outside perceptions while meeting training goals.
@@ -345,10 +345,10 @@ Chapter: Institutionalizing Information - Doctrine, Training, and Education
 ## Practice 26: Design the force for information demands
 
 **Problem**  
-A force built without information needs may lack required people and capabilities.
+A force built without information needs may lack the required people and capabilities.
 
 **Action**  
-Include information roles, systems, and skills in force development decisions.
+Include information on roles, systems, and skills in force development decisions.
 
 **Outcome**  
 The future force can operate effectively in contested information environments.
