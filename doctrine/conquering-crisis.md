@@ -33,7 +33,7 @@ Chapter: First Reports Are Always Wrong
 ## Practice 2: Build a trusted advisory group
 
 **Problem**  
-One leader cannot see every risk during a crisis.
+No single leader can see every risk during a crisis.
 
 **Action**  
 Gather experienced advisers who will question assumptions and speak honestly.
@@ -88,7 +88,7 @@ Chapter: Move All Your Options Forward
 A crisis naturally grows more confused when no one actively controls it.
 
 **Action**  
-Keep adding attention and resources until order becomes stable.
+Keep adding attention and resources until the order becomes stable.
 
 **Outcome**  
 Sustained effort prevents disorder from spreading.
