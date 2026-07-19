@@ -33,7 +33,7 @@ Chapter: From mechanized to informatized warfare - Navigating the transparent ba
 ## Practice 2: Build communications that survive interference
 
 **Problem**  
-Dependence on a few radio and data links lets electronic attacks disrupt the whole force.
+Dependence on a few radio and data links allows electronic attacks to disrupt the entire force.
 
 **Action**  
 Use dispersed networks that can change frequencies and continue operating with limited contact.
@@ -59,7 +59,7 @@ Chapter: From mechanized to informatized warfare - When protection is an illusio
 ## Practice 4: Defend the support network
 
 **Problem**  
-Attacks on logistics can stop combat units without defeating them directly.
+Attacks on logistics can stop combat units without directly defeating them.
 
 **Action**  
 Disperse supplies and give support units the means to detect, avoid, and resist attacks.
@@ -85,7 +85,7 @@ Chapter: From mechanized to informatized warfare - Blood in the streets
 ## Practice 6: Disperse forces and concentrate effects
 
 **Problem**  
-Concentrated formations are easy targets for modern sensors and long range weapons.
+Concentrated formations are easy targets for modern sensors and long-range weapons.
 
 **Action**  
 Place units across a wide area and connect them so they can act together at decisive moments.
@@ -117,7 +117,7 @@ Targets escape when information moves slowly between observers and weapons.
 Create rapid links that match detected targets with available guns, missiles, or aircraft.
 
 **Outcome**  
-Fires arrive sooner and produce greater effect with fewer shots.
+Fires arrive sooner and produce a greater effect with fewer shots.
 
 Chapter: The arms of the future - The fires system
 
@@ -169,7 +169,7 @@ Transformation fails when institutions buy new equipment without changing force 
 Set priorities from likely battlefield problems and test complete solutions in realistic exercises.
 
 **Outcome**  
-New technology becomes usable combat capability instead of isolated equipment.
+New technology becomes a usable combat capability instead of isolated equipment.
 
 Chapter: The continuation of policy - Priorities in transformation
 
