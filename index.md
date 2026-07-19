@@ -13,6 +13,7 @@ title: "Milcraft"
 - [**Strategy** (B. H. Liddell Hart)](/doctrine/strategy)
 - [**The Art of War** (Sun Tzu)](/doctrine/the-art-of-war)
 - [**The Book of Five Rings** (Miyamoto Musashi)](/doctrine/the-book-of-five-rings)
+- [**U.S. Marine Corps Doctrinal Publication - Warfighting**](/doctrine/us-marine-corps-doctrinal-publication-warfighting)
 
 ### Strategy
 
