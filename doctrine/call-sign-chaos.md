@@ -85,7 +85,7 @@ Chapter: Direct Leadership - Rhino
 ## Practice 6: Match speed with careful preparation
 
 **Problem**  
-Fast movement creates failure when supplies and support cannot keep pace.
+Rapid movement leads to failure when supplies and support cannot keep pace.
 
 **Action**  
 Confirm that logistics can support every stage before ordering a rapid advance.
@@ -130,7 +130,7 @@ A decision can solve an immediate issue while creating larger problems later.
 Identify the likely consequences of each major choice before approving it.
 
 **Outcome**  
-The organization avoids preventable damage caused by short sighted decisions.
+The organization avoids preventable damage caused by short-sighted decisions.
 
 Chapter: Executive Leadership - Cascading Consequences
 
@@ -143,7 +143,7 @@ Waiting for calm conditions allows outdated methods to remain in use.
 Test useful changes in small steps while current operations continue.
 
 **Outcome**  
-The organization becomes more capable without losing present effectiveness.
+The organization becomes more capable without losing its present effectiveness.
 
 Chapter: Executive Leadership - Fighting While Transforming
 
@@ -163,7 +163,7 @@ Chapter: Executive Leadership - Hold The Line
 ## Practice 12: Strengthen alliances before they become urgent
 
 **Problem**  
-Partners cannot create trust quickly after a crisis begins.
+Partners cannot quickly build trust after a crisis begins.
 
 **Action**  
 Maintain regular cooperation with allies during both calm periods and conflicts.
@@ -176,7 +176,7 @@ Chapter: Executive Leadership - Essential NATO
 ## Practice 13: Remove structures that no longer serve the mission
 
 **Problem**  
-An unnecessary bureaucracy consumes money and slows decisions.
+Unnecessary bureaucracy consumes money and delays decisions.
 
 **Action**  
 Close obsolete organizations and move their useful functions to places that still need them.
@@ -208,7 +208,7 @@ Military success can disappear when no stable settlement follows it.
 Link every campaign to a political plan that can survive after forces leave.
 
 **Outcome**  
-Hard won gains have a better chance of lasting.
+Hard-won gains have a better chance of lasting.
 
 Chapter: Strategic Leadership - Snatching Defeat From The Jaws Of Victory
 
