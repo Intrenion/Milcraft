@@ -62,9 +62,9 @@ title: "Milcraft"
 
 ### Learning & Adaptation
 
-- []()
-- []()
-- []()
+- [**Military Adaptation in War**: With Fear of Change (Williamson Murray)](/doctrine/military-adaptation-in-war)
+- [**U.S. Marine Corps Doctrinal Publication - Learning**](/doctrine/us-marine-corps-doctrinal-publication-learning)
+- [**U.S. Marine Corps Doctrinal Publication - Sustaining the Transformation**](/doctrine/us-marine-corps-doctrinal-publication-sustaining-the-transformation)
 
 ### Innovation & Future War
 
