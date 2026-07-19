@@ -46,8 +46,8 @@ title: "Milcraft"
 - [**Command**: The Politics of Military Operations from Korea to Ukraine (Lawrence Freedman)](/doctrine/command)
 - [**Conquering Crisis**: Ten Lessons to Learn Before You Need Them (William H. McRaven)](/doctrine/conquering-crisis)
 - [**Extreme Ownership**: How U.S. Navy SEALs Lead and Win (Jocko Willink et al.)](/doctrine/extreme-ownership)
-- []()
-- []()
+- [**It's Your Ship**: Management Techniques from the Best Damn Ship in the Navy (D. Michael Abrashoff)](/doctrine/its-your-ship)
+- [**Team of Teams**: New Rules of Engagement for a Complex World (Stanley McChrystal et al.)](/doctrine/team-of-teams)
 - []()
 - []()
 
