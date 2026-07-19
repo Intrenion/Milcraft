@@ -140,7 +140,7 @@ Chapter: Visualize the Battlespace
 Central approval slows action when battlefield conditions change quickly.
 
 **Action**  
-Let trained local leaders make time sensitive decisions within clear limits.
+Let trained local leaders make time-sensitive decisions within clear limits.
 
 **Outcome**  
 The force acts faster than an opponent with centralized control.
