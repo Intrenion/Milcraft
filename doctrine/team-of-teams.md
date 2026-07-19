@@ -98,13 +98,13 @@ Chapter: From Many, One - Team of Teams
 ## Practice 7: Make the whole system visible
 
 **Problem**  
-A narrow view can lead one team to harm work elsewhere.
+A narrow view can lead one team to harm the work of others.
 
 **Action**  
 Share a current picture of the whole operation with every team.
 
 **Outcome**  
-People make decisions that support the complete mission.
+People make decisions that support the mission as a whole.
 
 Chapter: Sharing - Seeing the System
 
@@ -127,7 +127,7 @@ Chapter: Sharing - Brains Out of the Footlocker
 Groups protect their own interests when they do not trust one another.
 
 **Action**  
-Rotate people between teams so they form direct relationships.
+Rotate people between teams, so they form direct relationships.
 
 **Outcome**  
 Teams cooperate because they trust the people on the other side.
