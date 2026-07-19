@@ -48,21 +48,29 @@ title: "Milcraft"
 - [**Extreme Ownership**: How U.S. Navy SEALs Lead and Win (Jocko Willink et al.)](/doctrine/extreme-ownership)
 - [**It's Your Ship**: Management Techniques from the Best Damn Ship in the Navy (D. Michael Abrashoff)](/doctrine/its-your-ship)
 - [**Team of Teams**: New Rules of Engagement for a Complex World (Stanley McChrystal et al.)](/doctrine/team-of-teams)
-- []()
-- []()
+- [**U.S. Marine Corps Doctrinal Publication - Command and Control**](/doctrine/us-marine-corps-doctrinal-publication-command-and-control)
+- [**U.S. Marine Corps Doctrinal Publication - Leading Marines**](/doctrine/us-marine-corps-doctrinal-publication-leading-marines)
 
 ### Intelligence & Information
 
-TBD...
+- []()
+- []()
 
 ### Logistics
 
-TBD...
+- []()
 
 ### Learning & Adaptation
 
-TBD...
+- []()
+- []()
+- []()
 
 ### Innovation & Future War
 
+- []()
+- []()
+- []()
 - [**The Origins of Victory**: How Disruptive Military Innovation Determines the Fates of Great Powers (Andrew F. Krepinevich Jr.)](/doctrine/the-origins-of-victory)
+- []()
+- []()
