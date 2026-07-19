@@ -150,7 +150,7 @@ Chapter: The Nature of Intelligence - Conclusion
 ## Practice 11: Study the enemy as an adaptive system
 
 **Problem**  
-Knowing isolated enemy facts does not reveal how the enemy may fight.
+Knowing isolated facts about the enemy does not reveal how the enemy may fight.
 
 **Action**  
 Assess the enemy's organization, capabilities, methods, goals, and likely reactions.
@@ -163,13 +163,13 @@ Chapter: Intelligence Theory - What Do We Want to Know About the Enemy?
 ## Practice 12: Deliver timely, relevant, and accurate intelligence
 
 **Problem**  
-Intelligence that arrives late or misses the commander's need cannot guide action.
+Intelligence that arrives late or fails to meet the commander's needs cannot guide action.
 
 **Action**  
 Prioritize relevance, timeliness, accuracy, usability, and completeness in every product.
 
 **Outcome**  
-Commanders receive intelligence they can use when decisions are required.
+Commanders receive intelligence they can use when making decisions.
 
 Chapter: Intelligence Theory - Characteristics of Good Intelligence
 
@@ -179,7 +179,7 @@ Chapter: Intelligence Theory - Characteristics of Good Intelligence
 Different decisions require different types of intelligence.
 
 **Action**  
-Select the intelligence class that fits the mission and planning need.
+Select the intelligence class that fits the mission and planning needs.
 
 **Outcome**  
 Each decision receives information at the right scope and level of detail.
@@ -228,7 +228,7 @@ Chapter: Intelligence Theory - Levels of Intelligence
 ## Practice 17: Turn command needs into clear intelligence requirements
 
 **Problem**  
-Vague questions produce scattered collection and unfocused analysis.
+Vague questions produce a scattered collection and unfocused analysis.
 
 **Action**  
 State each intelligence requirement as a specific question tied to a decision.
@@ -247,7 +247,7 @@ A single source may be incomplete, mistaken, biased, or deceptive.
 Compare information from human, technical, documentary, and open sources.
 
 **Outcome**  
-Confirmed findings become more reliable and gaps become easier to see.
+Confirmed findings become more reliable, and gaps become easier to see.
 
 Chapter: Intelligence Theory - Sources of Intelligence
 
@@ -267,10 +267,10 @@ Chapter: Intelligence Theory - Functions of Intelligence
 ## Practice 20: Protect intelligence without blocking its use
 
 **Problem**  
-Weak security exposes operations while excessive control delays needed information.
+Weak security exposes operations, while excessive control delays the information needed.
 
 **Action**  
-Limit access according to risk while sharing intelligence with authorized users promptly.
+Limit access based on risk while promptly sharing intelligence with authorized users.
 
 **Outcome**  
 Sensitive information remains protected and useful.
@@ -280,7 +280,7 @@ Chapter: Intelligence Theory - Security
 ## Practice 21: Keep the intelligence cycle responsive
 
 **Problem**  
-A rigid sequence can delay intelligence in a fast changing situation.
+A rigid sequence can delay intelligence in a fast-changing situation.
 
 **Action**  
 Run direction, collection, processing, analysis, sharing, and feedback as overlapping activities.
