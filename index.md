@@ -16,7 +16,7 @@ title: "Milcraft"
 
 ### Strategy
 
-- [**Command**: The Politics of Military Operations from Korea to Ukraine (Lawrence Freedman)](/doctrine/command)
+- [**Fighting Talk**: Forty Maxims on War, Peace, and Strategy (Colin S. Gray)](/doctrine/fighting-talk)
 - [**Modern Strategy** (Colin S. Gray)](/doctrine/modern-strategy)
 - [**Makers of Modern Strategy**: From Machiavelli to the Nuclear Age (Peter Paret et al., Editor)](/doctrine/makers-of-modern-strategy)
 - [**The Strategy of Denial**: American Defense in an Age of Great Power Conflict (Elbridge A. Colby)](/doctrine/the-strategy-of-denial)
@@ -28,7 +28,6 @@ title: "Milcraft"
 ### Operations
 
 - [**On Operations**: Operational Art and Military Disciplines (Brett A. Friedman)](/doctrine/on-operations)
-- [**The Origins of Victory**: How Disruptive Military Innovation Determines the Fates of Great Powers (Andrew F. Krepinevich Jr.)](/doctrine/the-origins-of-victory)
 - [**U.S. Marine Corps Doctrinal Publication - Campaigning**](/doctrine/us-marine-corps-doctrinal-publication-campaigning)
 - [**U.S. Marine Corps Doctrinal Publication - Expeditionary Operations**](/doctrine/us-marine-corps-doctrinal-publication-expeditionary-operations)
 - [**U.S. Marine Corps Doctrinal Publication - Marine Corps Planning Process**](/doctrine/us-marine-corps-doctrinal-publication-marine-corps-planning-process)
@@ -36,11 +35,13 @@ title: "Milcraft"
 
 ### Tactics
 
-TBD...
+- []()
+- []()
+- []()
 
-### Leadership & Command
+### Command & Leadership
 
-TBD...
+- [**Command**: The Politics of Military Operations from Korea to Ukraine (Lawrence Freedman)](/doctrine/command)
 
 ### Intelligence & Information
 
@@ -50,10 +51,10 @@ TBD...
 
 TBD...
 
-### Learning & Transformation
+### Learning & Adaptation
 
 TBD...
 
-### Innovation & Future Warfare
+### Innovation & Future War
 
-TBD...
+- [**The Origins of Victory**: How Disruptive Military Innovation Determines the Fates of Great Powers (Andrew F. Krepinevich Jr.)](/doctrine/the-origins-of-victory)
