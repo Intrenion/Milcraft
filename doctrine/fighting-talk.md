@@ -111,7 +111,7 @@ Chapter: War and Peace - Reason Reigns Over War, but Passion and Chance Threaten
 ## Practice 8: Plan beyond combat
 
 **Problem**  
-Success in fighting cannot manage every political and social part of war.
+Success in fighting cannot manage every political and social aspect of war.
 
 **Action**  
 Coordinate military action with diplomacy, economics, and public authority.
@@ -127,7 +127,7 @@ Chapter: War and Peace - There Is More to War than Warfare
 Policy fails when leaders misunderstand the kind of war they are directing.
 
 **Action**  
-Test political aims against the actual nature and current character of the conflict.
+Test political aims against the conflict's actual nature and current character.
 
 **Outcome**  
 Policy will demand results that military action can realistically support.
@@ -241,7 +241,7 @@ Chapter: Strategy - Time Is the Least Forgiving Dimension of Strategy
 ## Practice 18: Build plans that can survive friction
 
 **Problem**  
-Confusion, delay, error, and equipment failure disrupt every military effort.
+Confusion, delays, errors, and equipment failures disrupt every military effort.
 
 **Action**  
 Keep plans simple and provide reserves for predictable disruption.
@@ -322,7 +322,7 @@ Chapter: Military Power and Warfare - Military Power Is Trumps in Politics
 Exercises and appearances cannot prove how forces will perform in war.
 
 **Action**  
-Evaluate military claims against demanding evidence from real operations.
+Evaluate military claims by demanding evidence from real operations.
 
 **Outcome**  
 Assessments of combat quality will become more realistic.
@@ -338,7 +338,7 @@ Excellent forces can still fail when their actions do not serve a sound strategy
 Direct military skill toward clear and achievable political goals.
 
 **Outcome**  
-Combat strength will have a better chance of producing strategic success.
+Combat strength is more likely to produce strategic success.
 
 Chapter: Military Power and Warfare - Military Excellence Cannot Guarantee Strategic Success
 
@@ -384,7 +384,7 @@ Chapter: Military Power and Warfare - Logistics Is the Arbiter of Strategic Oppo
 ## Practice 29: Prepare for the return of danger
 
 **Problem**  
-Periods of calm can create false confidence that serious conflict has ended.
+Periods of calm can create a false sense of confidence that serious conflict has ended.
 
 **Action**  
 Maintain readiness during peaceful periods.
@@ -397,7 +397,7 @@ Chapter: Security and Insecurity - Bad Times Return
 ## Practice 30: Defend against harmful actors
 
 **Problem**  
-Some people inside and outside the state will use weakness for harmful ends.
+Some people, both inside and outside the state, will exploit weakness for harmful ends.
 
 **Action**  
 Identify dangerous actors and limit their ability to cause harm.
@@ -449,13 +449,13 @@ Chapter: Security and Insecurity - Strategic History Punishes Good Intentions
 ## Practice 34: Explain defense costs through specific risks
 
 **Problem**  
-Defense spending is visible while the security it provides is difficult to prove.
+Defense spending is visible, while the security it provides is difficult to prove.
 
 **Action**  
 Connect each major defense cost to a clear risk and capability.
 
 **Outcome**  
-Public debate will better understand what the spending is meant to protect.
+Public debate will help us better understand what the spending is meant to protect.
 
 Chapter: Security and Insecurity - Defense Costs Are Certain, but Security Benefits Are Uncertain and Arguable
 
@@ -530,7 +530,7 @@ Chapter: History and the Future - Surprise Is Unavoidable, but Its Effect Is Not
 Some conflicts force choices in which every available option causes harm.
 
 **Action**  
-Choose the least harmful feasible course with full awareness of its cost.
+Choose the least harmful feasible course, fully aware of its cost.
 
 **Outcome**  
 Leaders will handle tragic choices with greater honesty and care.
