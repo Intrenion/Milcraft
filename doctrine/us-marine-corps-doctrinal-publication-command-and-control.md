@@ -150,7 +150,7 @@ Chapter: The Nature of Command and Control - Command and Control in the Informat
 ## Practice 11: Design for people and uncertainty
 
 **Problem**  
-Rigid systems break when human behavior and events do not match the plan.
+Rigid systems break down when human behavior and events do not align with the plan.
 
 **Action**  
 Build command and control around human judgment and uncertain conditions.
@@ -306,7 +306,7 @@ Chapter: Command and Control Theory - Conclusion
 ## Practice 23: Design for friction and failure
 
 **Problem**  
-Stress and disruption expose weaknesses in command and control systems.
+Stress and disruption expose weaknesses in command-and-control systems.
 
 **Action**  
 Build systems that can continue operating when people or links fail.
@@ -322,7 +322,7 @@ Chapter: Creating Effective Command and Control - The Challenges to the System
 Detailed central control cannot keep pace with fast changes.
 
 **Action**  
-Give subordinates clear purpose and freedom to decide how to act.
+Give subordinates a clear purpose and freedom to decide how to act.
 
 **Outcome**  
 The force adapts quickly while pursuing one mission.
@@ -403,7 +403,7 @@ Unfiltered information consumes attention and slows judgment.
 Send each decision maker the information needed for the current task.
 
 **Outcome**  
-People decide faster with less distraction.
+People decide faster with fewer distractions.
 
 Chapter: Creating Effective Command and Control - Information Management
 
@@ -429,7 +429,7 @@ Plans miss important knowledge when only a small group develops them.
 Involve key participants early in the planning process.
 
 **Outcome**  
-The plan gains broader understanding and stronger execution.
+The plan gains a broader understanding and stronger execution.
 
 Chapter: Creating Effective Command and Control - Planning
 
@@ -481,14 +481,14 @@ Repeated coordination wastes time when common tasks lack clear procedures.
 Create simple procedures for routine and predictable activities.
 
 **Outcome**  
-People save attention for unusual problems.
+People pay attention to unusual problems.
 
 Chapter: Creating Effective Command and Control - Procedures
 
 ## Practice 37: Assign capable people to critical roles
 
 **Problem**  
-Command and control quality falls when key positions lack skilled personnel.
+Command-and-control quality declines when key positions lack skilled personnel.
 
 **Action**  
 Select and develop people for the judgment their roles require.
@@ -501,7 +501,7 @@ Chapter: Creating Effective Command and Control - Manpower
 ## Practice 38: Keep the organization adaptable
 
 **Problem**  
-Rigid boundaries block cooperation when missions cross normal responsibilities.
+Rigid boundaries impede cooperation when missions extend beyond normal responsibilities.
 
 **Action**  
 Adjust organizational relationships to fit the task.
