@@ -49,7 +49,7 @@ Chapter: Zeroized
 Long planning cycles can produce systems that do not meet field needs.
 
 **Action**  
-Give a simple prototype to real users and improve it from their feedback.
+Give a simple prototype to real users and improve it based on their feedback.
 
 **Outcome**  
 Useful systems reach the field faster.
@@ -62,7 +62,7 @@ Chapter: The Gonkulator
 Slow information flow gives an adversary more time to move or strike.
 
 **Action**  
-Connect sensors, analysis, decisions, and weapons in one fast process.
+Connect sensors, analysis, decision-making, and weapons in a single, fast process.
 
 **Outcome**  
 Forces can respond before a target escapes or attacks.
@@ -111,7 +111,7 @@ Chapter: Venture Capital Goes to War
 ## Practice 8: Adapt commercial technology during combat
 
 **Problem**  
-Battlefield needs change faster than traditional weapons programs can respond.
+Battlefield needs to change faster than traditional weapons programs can respond.
 
 **Action**  
 Update commercial drones, software, and communications from direct battlefield feedback.
@@ -124,10 +124,10 @@ Chapter: Ukraine and the Battlefield of the Future
 ## Practice 9: Build military advantage through software
 
 **Problem**  
-Hardware alone cannot keep pace with threats that change quickly.
+Hardware alone cannot keep pace with rapidly evolving threats.
 
 **Action**  
-Design military systems so software can improve their abilities after deployment.
+Design military systems so that software can improve their abilities after deployment.
 
 **Outcome**  
 Existing equipment stays useful as missions and threats change.
