@@ -58,7 +58,7 @@ title: "Milcraft"
 
 ### Logistics
 
-- []()
+- [**U.S. Marine Corps Doctrinal Publication - Logistics**](/doctrine/us-marine-corps-doctrinal-publication-logistics)
 
 ### Learning & Adaptation
 
