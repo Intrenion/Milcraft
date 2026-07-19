@@ -88,7 +88,7 @@ Chapter: Laws Of Combat - Cover And Move
 Complex instructions create confusion when pressure rises.
 
 **Action**  
-Explain the plan in clear steps that everyone can repeat.
+Explain the plan in clear, repeatable steps.
 
 **Outcome**  
 People act faster with fewer mistakes.
@@ -169,6 +169,6 @@ Rigid leadership and careless freedom can both weaken performance.
 Use firm standards while adapting your approach to the situation.
 
 **Outcome**  
-The team gains reliable structure without losing initiative.
+The team gains a reliable structure without losing initiative.
 
 Chapter: Sustaining Victory - Discipline Equals Freedom - The Dichotomy Of Leadership
