@@ -33,7 +33,7 @@ Chapter: The Soldier and the Statesman
 ## Practice 2: Press commanders for decisive action
 
 **Problem**  
-Commanders may delay action when caution becomes stronger than strategic need.
+Commanders may delay action when caution outweighs strategic need.
 
 **Action**  
 Give commanders clear strategic direction and replace them when they repeatedly fail to act.
@@ -46,7 +46,7 @@ Chapter: Lincoln Sends a Letter
 ## Practice 3: Visit the front and learn directly
 
 **Problem**  
-Reports from military headquarters can hide conditions faced by soldiers.
+Reports from military headquarters can hide the conditions soldiers face.
 
 **Action**  
 Visit the front to observe operations and speak with commanders and troops.
