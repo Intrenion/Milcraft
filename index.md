@@ -20,6 +20,7 @@ title: "Milcraft"
 - [**Fighting Talk**: Forty Maxims on War, Peace, and Strategy (Colin S. Gray)](/doctrine/fighting-talk)
 - [**Modern Strategy** (Colin S. Gray)](/doctrine/modern-strategy)
 - [**Makers of Modern Strategy**: From Machiavelli to the Nuclear Age (Peter Paret et al., Editor)](/doctrine/makers-of-modern-strategy)
+- [**Supreme Command**: Soldiers, Statesmen, and Leadership in Wartime (Eliot Cohen)](/doctrine/supreme-command)
 - [**The Strategy of Denial**: American Defense in an Age of Great Power Conflict (Elbridge A. Colby)](/doctrine/the-strategy-of-denial)
 - [**The Utility of Force**: The Art of War in the Modern World (Rupert Smith)](/doctrine/the-utility-of-force)
 - [**U.S. Marine Corps Doctrinal Publication - Competing**](/doctrine/us-marine-corps-doctrinal-publication-competing)
@@ -36,9 +37,8 @@ title: "Milcraft"
 
 ### Tactics
 
-- []()
-- []()
-- []()
+- [**On Tactics**: A Theory of Victory in Battle (Brett A. Friedman)](/doctrine/on-tactics)
+- [**U.S. Marine Corps Doctrinal Publication - Tactics**](/doctrine/us-marine-corps-doctrinal-publication-tactics)
 
 ### Command & Leadership
 
