@@ -143,7 +143,7 @@ New technology and social conditions change how forces fight.
 Study change and revise methods while preserving sound principles.
 
 **Outcome**  
-Your force stays effective without following passing ideas blindly.
+Your force stays effective without blindly following passing ideas.
 
 Chapter: The Nature of War - The Evolution of War
 
@@ -283,7 +283,7 @@ Chapter: The Theory of War - Speed and Focus
 Predictable action allows the enemy to prepare an effective defense.
 
 **Action**  
-Take calculated risks to strike in an unexpected way.
+Take calculated risks to strike unexpectedly.
 
 **Outcome**  
 The enemy loses time and freedom to respond.
@@ -455,7 +455,7 @@ Equipment and plans cannot replace adaptable people.
 Build readiness through sound organization, realistic training, and professional judgment.
 
 **Outcome**  
-The force enters conflict able to adjust and act.
+The force enters conflict, able to adjust and act.
 
 Chapter: Preparing for War - Conclusion
 
@@ -491,7 +491,7 @@ Chapter: The Conduct of War - Maneuver Warfare
 A fixed plan can ignore the opponent's actual behavior and weaknesses.
 
 **Action**  
-Study the enemy continuously and direct action against the most useful weakness.
+Study the enemy continuously and take direct action against the most useful weakness.
 
 **Outcome**  
 Operations solve the real battlefield problem.
@@ -501,10 +501,10 @@ Chapter: The Conduct of War - Orienting on the Enemy
 ## Practice 38: Decentralize execution
 
 **Problem**  
-Central control cannot keep pace with fast battlefield changes.
+Central control cannot keep pace with the rapid changes on the battlefield.
 
 **Action**  
-Give subordinates clear purpose and freedom to act.
+Give subordinates a clear purpose and freedom to act.
 
 **Outcome**  
 Decisions occur faster at the point of action.
@@ -530,7 +530,7 @@ Chapter: The Conduct of War - Shaping the Action
 A perfect decision made too late cannot influence events.
 
 **Action**  
-Choose a workable course once enough information supports action.
+Choose a workable course once enough information is available to support action.
 
 **Outcome**  
 Your force acts while the opportunity still exists.
@@ -592,7 +592,7 @@ Chapter: The Conduct of War - Surfaces and Gaps
 ## Practice 45: Create dilemmas with combined arms
 
 **Problem**  
-A single form of attack lets the enemy use one effective defense.
+A single form of attack allows the enemy to use a single effective defense.
 
 **Action**  
 Combine supporting arms so each enemy response creates another weakness.
