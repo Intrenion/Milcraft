@@ -45,7 +45,7 @@ title: "Milcraft"
 - [**Call Sign Chaos**: Learning to Lead (Jim Mattis et al.)](/doctrine/call-sign-chaos)
 - [**Command**: The Politics of Military Operations from Korea to Ukraine (Lawrence Freedman)](/doctrine/command)
 - [**Conquering Crisis**: Ten Lessons to Learn Before You Need Them (William H. McRaven)](/doctrine/conquering-crisis)
-- []()
+- [**Extreme Ownership**: How U.S. Navy SEALs Lead and Win (Jocko Willink et al.)](/doctrine/extreme-ownership)
 - []()
 - []()
 - []()
