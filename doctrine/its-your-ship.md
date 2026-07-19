@@ -104,7 +104,7 @@ Avoiding every risk prevents learning and improvement.
 Weigh the likely costs and benefits before trying a new approach.
 
 **Outcome**  
-Careful risk taking creates progress without reckless exposure.
+Careful risk-taking creates progress without reckless exposure.
 
 Chapter: Take Calculated Risks
 
@@ -124,7 +124,7 @@ Chapter: Go Beyond Standard Procedure
 ## Practice 9: Develop people through responsibility
 
 **Problem**  
-People cannot grow when leaders keep every important decision for themselves.
+People cannot grow when leaders keep all important decisions to themselves.
 
 **Action**  
 Give people meaningful responsibility with clear support.
@@ -163,7 +163,7 @@ Chapter: Improve Your People's Quality Of Life
 ## Practice 12: Carry effective leadership habits forward
 
 **Problem**  
-Progress fades when good leadership depends on one role or one leader.
+Progress fades when good leadership depends on a single role or a single leader.
 
 **Action**  
 Apply proven leadership habits in every new position.
