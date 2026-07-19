@@ -267,7 +267,7 @@ Chapter: The Logistics Enterprise - Strategic Logistics
 ## Practice 20: Assign clear logistics responsibilities
 
 **Problem**  
-Unclear authority causes duplicated work and unmet needs.
+Unclear authority leads to duplicate work and unmet needs.
 
 **Action**  
 Define who plans, provides, coordinates, and controls each form of support.
@@ -299,7 +299,7 @@ Poor care of personal equipment increases the burden on the logistics system.
 Maintain assigned equipment and report needs before they become failures.
 
 **Outcome**  
-Individual readiness improves and support demands decrease.
+Individual readiness improves, and support demands decrease.
 
 Chapter: Logistics Preparation - Logistics and the Individual Marine
 
@@ -335,7 +335,7 @@ Chapter: Logistics Preparation - Logistics Considerations for Equipment
 A force that deploys without matched support arrives unready to operate.
 
 **Action**  
-Align personnel, equipment, supplies, transportation, and reception plans before departure.
+Align plans for personnel, equipment, supplies, transportation, and reception before departure.
 
 **Outcome**  
 The force can begin operations soon after arrival.
@@ -345,7 +345,7 @@ Chapter: Logistics Preparation - Logistics Preparations for Deploying Forces
 ## Practice 26: Build readiness continuously
 
 **Problem**  
-Last minute preparation cannot correct long-standing logistics weaknesses.
+Last-minute preparation cannot correct long-standing logistics weaknesses.
 
 **Action**  
 Maintain stocks, skills, equipment, agreements, and plans throughout the force cycle.
