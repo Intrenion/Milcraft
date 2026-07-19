@@ -163,7 +163,7 @@ Chapter: The Culture of Learning - Professional
 ## Practice 12: Set clear learning expectations
 
 **Problem**  
-Learning becomes optional when leaders do not define what they expect.
+Learning becomes optional when leaders do not define their expectations.
 
 **Action**  
 State the learning behaviors required from every member of the unit.
@@ -247,7 +247,7 @@ Learners make slow progress when they wait for others to guide every step.
 Choose a useful goal and follow a plan to reach it.
 
 **Outcome**  
-You can develop needed skills without constant supervision.
+You can develop the needed skills without constant supervision.
 
 Chapter: The Learning Environment - Self-Directed Learning
 
@@ -260,7 +260,7 @@ Long explanations do not show whether learners can perform the task.
 Coach learners as they practice and solve problems.
 
 **Outcome**  
-Learners gain skill through active effort and timely guidance.
+Learners gain skills through active effort and timely guidance.
 
 Chapter: The Learning Environment - The Role of the Instructor
 
@@ -332,7 +332,7 @@ Chapter: The Learning Leader - Teaching and Leading
 ## Practice 25: Admit what you do not know
 
 **Problem**  
-A leader who hides knowledge gaps can block useful information.
+A leader who hides knowledge gaps can impede the flow of useful information.
 
 **Action**  
 Acknowledge uncertainty and seek informed advice.
