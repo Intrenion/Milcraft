@@ -85,7 +85,7 @@ Chapter: A Reserve Army of Innovators
 ## Practice 6: Connect developers directly with military users
 
 **Problem**  
-Distance between industry and soldiers can produce equipment that misses real needs.
+The distance between industry and soldiers can produce equipment that misses real needs.
 
 **Action**  
 Let engineers observe operations and work directly with users.
@@ -215,7 +215,7 @@ Chapter: Why the Merkava Is Different
 ## Practice 16: Pair intelligence work with rapid engineering
 
 **Problem**  
-Intelligence loses value when units cannot turn it into usable tools quickly.
+Intelligence loses value when units cannot quickly turn it into usable tools.
 
 **Action**  
 Place analysts and engineers together to solve urgent operational problems.
