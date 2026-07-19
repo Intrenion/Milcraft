@@ -39,7 +39,7 @@ Strength spread evenly across the battlefield has little decisive effect.
 Concentrate enough force at the most important point to overpower the enemy.
 
 **Outcome**  
-Local superiority creates a strong chance of victory.
+Local superiority greatly increases the chance of victory.
 
 Chapter: Tactical Tenets - Mass
 
@@ -65,7 +65,7 @@ A slow rhythm gives the enemy time to understand and respond.
 Act faster than the enemy can make effective decisions.
 
 **Outcome**  
-The enemy falls behind as each new action begins.
+The enemy falls behind with each new action.
 
 Chapter: Tactical Tenets - Tempo
 
@@ -111,7 +111,7 @@ Chapter: Tactical Tenets - Confusion
 ## Practice 8: Break resistance through concentrated shock
 
 **Problem**  
-An enemy can continue fighting while its confidence remains intact.
+An enemy can continue fighting as long as its confidence remains intact.
 
 **Action**  
 Combine sudden force with rapid movement at the decisive moment.
@@ -153,7 +153,7 @@ Chapter: Tactical Concepts - The Culminating Point of Victory
 A force that only reacts allows the enemy to control events.
 
 **Action**  
-Use offensive action within any posture to force enemy responses.
+Use offensive action in any posture to force the enemy to respond.
 
 **Outcome**  
 The enemy must act within conditions you create.
@@ -182,7 +182,7 @@ Terrain and local conditions can defeat tactics that ignore them.
 Choose actions that exploit the specific ground, weather, and surroundings.
 
 **Outcome**  
-The environment strengthens your advantages and limits enemy choices.
+The environment amplifies your advantages and constrains enemy options.
 
 Chapter: Tactical Concepts - Environment and Geography
 
@@ -260,7 +260,7 @@ Methods built for conventional forces often fail against dispersed guerrillas.
 Match organization and tactics to how the enemy gains strength and survives.
 
 **Outcome**  
-The force applies pressure where that enemy is most vulnerable.
+The force applies pressure where the enemy is most vulnerable.
 
 Chapter: Appendices - Conventional vs. Guerrilla Warfare
 
@@ -286,6 +286,6 @@ Isolated units cannot create the full effect of complementary capabilities.
 Organize specialized elements to support one another under unified direction.
 
 **Outcome**  
-The force produces greater tactical effect than its parts can produce alone.
+The force produces a greater tactical effect than its parts can produce alone.
 
 Chapter: Appendices - Philip’s Gift: The Organization of Tactically Successful Militaries
