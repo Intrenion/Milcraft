@@ -65,7 +65,7 @@ A fixed method cannot fit every enemy or mission.
 Choose techniques that support the mission and exploit the enemy's weakness.
 
 **Outcome**  
-Tactical actions serve the larger purpose instead of becoming routine.
+Tactical actions serve a larger purpose rather than becoming routine.
 
 Chapter: Understanding Tactics - Marine Corps Tactics
 
@@ -241,7 +241,7 @@ Chapter: Gaining Advantage - Weather
 ## Practice 18: Operate effectively in low visibility
 
 **Problem**  
-Darkness and poor visibility can cause confusion and break coordination.
+Darkness and poor visibility can cause confusion and disrupt coordination.
 
 **Action**  
 Train and prepare to move, communicate, and fight with limited sight.
@@ -260,7 +260,7 @@ Forces with similar abilities often share the same weaknesses.
 Combine units whose strengths protect each other's limits.
 
 **Outcome**  
-The force can handle more threats without depending on one capability.
+The force can handle more threats without relying on a single capability.
 
 Chapter: Gaining Advantage - Complementary Forces
 
@@ -319,7 +319,7 @@ Chapter: Gaining Advantage - Asymmetry
 ## Practice 24: Build several advantages before attacking
 
 **Problem**  
-Depending on one advantage makes the plan fragile.
+Relying on a single advantage makes the plan fragile.
 
 **Action**  
 Combine position, timing, surprise, and complementary capabilities against the enemy.
@@ -384,7 +384,7 @@ Chapter: Being Faster - Timing
 ## Practice 29: Become faster than the enemy
 
 **Problem**  
-Absolute speed does not create advantage when the enemy can respond sooner.
+Absolute speed does not create an advantage when the enemy can respond sooner.
 
 **Action**  
 Shorten your decision and action time relative to the enemy's cycle.
@@ -436,7 +436,7 @@ Chapter: Being Faster - Becoming Faster
 ## Practice 33: Build speed into the whole force
 
 **Problem**  
-One fast unit cannot create lasting advantage if the rest of the force lags behind.
+One fast unit cannot create a lasting advantage if the rest of the force lags behind.
 
 **Action**  
 Align decisions, movement, fires, logistics, and communication for rapid action.
@@ -449,7 +449,7 @@ Chapter: Being Faster - Conclusion
 ## Practice 34: Prepare for likely changes
 
 **Problem**  
-Unexpected events cause delay when leaders have considered only one future.
+Unexpected events cause delays when leaders have considered only one future.
 
 **Action**  
 Identify likely enemy actions and prepare practical responses before they occur.
@@ -530,7 +530,7 @@ Chapter: Cooperating - Control in Combat
 Units that focus only on assigned tasks can weaken the overall effort.
 
 **Action**  
-Share information, resources, and support when another unit can create greater advantage.
+Share information, resources, and support when another unit can create a greater advantage.
 
 **Outcome**  
 Separate actions reinforce each other across the force.
@@ -683,7 +683,7 @@ Chapter: Making it Happen - Training and Educational Methods - Professional Read
 ## Practice 52: Rehearse tactical decisions without troops
 
 **Problem**  
-Leaders need frequent decision practice that full field exercises cannot always provide.
+Leaders need frequent decision practice that full-field exercises cannot always provide.
 
 **Action**  
 Use map problems and tactical decision exercises with strict time limits.
