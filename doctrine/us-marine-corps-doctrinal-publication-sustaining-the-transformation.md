@@ -33,7 +33,7 @@ Chapter: Our Legacy - History
 ## Practice 2: Live the traditions you inherit
 
 **Problem**  
-Heritage loses its value when Marines treat it as ceremony without duty.
+Heritage loses its value when Marines treat it as a ceremony without duty.
 
 **Action**  
 Express Marine traditions through disciplined conduct and faithful service.
@@ -98,10 +98,10 @@ Chapter: Junior Enlisted Marines - A Solid Foundation
 ## Practice 7: Build a strong Marine identity
 
 **Problem**  
-Marines who feel disconnected may struggle to accept the standards of the group.
+Marines who feel disconnected may struggle to accept the group's standards.
 
 **Action**  
-Learn the purpose of the unit and take an active role in its shared life.
+Learn the unit's purpose and take an active role in its shared life.
 
 **Outcome**  
 A clear sense of belonging increases commitment to the team.
@@ -195,7 +195,7 @@ Marines may make poor choices when they understand only their immediate assignme
 Explain how each task supports the commander's intent.
 
 **Outcome**  
-Broader understanding improves judgment at the lowest level.
+A broader understanding improves judgment at the lowest level.
 
 Chapter: Noncommissioned Officers - Seeing the Bigger Picture
 
@@ -205,7 +205,7 @@ Chapter: Noncommissioned Officers - Seeing the Bigger Picture
 A rushed reenlistment decision can conflict with a Marine's duties and future goals.
 
 **Action**  
-Compare continued service with your abilities and long term commitments.
+Compare continued service with your abilities and long-term commitments.
 
 **Outcome**  
 Careful reflection leads to a more responsible career decision.
@@ -260,7 +260,7 @@ Special duty loses value when Marines view it only as a career requirement.
 Use the assignment to develop Marines and strengthen the Corps.
 
 **Outcome**  
-Purposeful service expands leadership skill and institutional impact.
+Purposeful service expands leadership skills and institutional impact.
 
 Chapter: Staff Noncommissioned Officers - Special Duty
 
@@ -345,7 +345,7 @@ Chapter: Company-Grade Officers - Confidence without Experience
 ## Practice 26: Build a trusted support network
 
 **Problem**  
-The pressure of command can isolate a company grade officer.
+The pressure of command can isolate a company-grade officer.
 
 **Action**  
 Maintain regular contact with trusted mentors and peers.
@@ -371,7 +371,7 @@ Chapter: Company-Grade Officers - Sustaining Others
 ## Practice 28: Keep learning as responsibility grows
 
 **Problem**  
-Past success can limit a field grade officer who stops questioning established habits.
+Past success can limit a field-grade officer who stops questioning established habits.
 
 **Action**  
 Study new problems and invite informed criticism of your decisions.
