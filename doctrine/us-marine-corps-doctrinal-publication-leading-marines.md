@@ -72,7 +72,7 @@ Chapter: Our Ethos - Every Marine A Rifleman
 ## Practice 5: Remain faithful to shared duties
 
 **Problem**  
-Self interest can weaken loyalty during hardship.
+Self-interest can weaken loyalty during hardship.
 
 **Action**  
 Put your duties to the nation, the Corps, and fellow Marines before personal comfort.
@@ -117,7 +117,7 @@ Personal weaknesses can reduce a leader's judgment and credibility.
 Compare your conduct with Marine leadership traits and correct one weakness at a time.
 
 **Outcome**  
-Steady self improvement makes your leadership more reliable.
+Steady self-improvement makes your leadership more reliable.
 
 Chapter: Foundations of Leadership - Leadership Traits
 
