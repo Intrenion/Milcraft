@@ -72,5 +72,5 @@ title: "Milcraft"
 - [**The Arms of the Future**: Technology and Close Combat in the Twenty-First Century (Jack Watling)](/doctrine/the-arms-of-the-future)
 - [**The Art of Military Innovation**: Lessons from the Israel Defense Forces (Edward N. Luttwak et al.)](/doctrine/the-art-of-military-innovation)
 - [**The Origins of Victory**: How Disruptive Military Innovation Determines the Fates of Great Powers (Andrew F. Krepinevich Jr.)](/doctrine/the-origins-of-victory)
-- []()
-- []()
+- [**Unit X**: How the Pentagon and Silicon Valley Are Transforming the Future of War (Raj M. Shah et al.)](/doctrine/unit-x)
+- [**Wired for War**: The Robotics Revolution and Conflict in the 21st Century (P. W. Singer)](/doctrine/wired-for-war)
