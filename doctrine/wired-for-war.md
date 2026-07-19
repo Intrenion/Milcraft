@@ -20,7 +20,7 @@ date: 2026-07-20
 ## Practice 1: Treat robotic war as a present reality
 
 **Problem**  
-Leaders make poor choices when they treat military robots as distant ideas.
+Leaders make poor choices when they treat military robots as general ideas.
 
 **Action**  
 Examine how robots already affect combat before setting policy or strategy.
@@ -247,7 +247,7 @@ Constant data can overwhelm leaders and pull senior officers into minor decision
 Set clear decision levels and filter information before it reaches commanders.
 
 **Outcome**  
-Leaders focus on choices that match their responsibility.
+Leaders focus on choices that align with their responsibilities.
 
 Chapter: What Change Is Creating For Us - Command and Control… Alt-Delete: New Technologies and Their Effect on Leadership
 
