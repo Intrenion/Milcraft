@@ -53,8 +53,8 @@ title: "Milcraft"
 
 ### Intelligence & Information
 
-- []()
-- []()
+- [**U.S. Marine Corps Doctrinal Publication - Information**](/doctrine/us-marine-corps-doctrinal-publication-information)
+- [**U.S. Marine Corps Doctrinal Publication - Intelligence**](/doctrine/us-marine-corps-doctrinal-publication-intelligence)
 
 ### Logistics
 
