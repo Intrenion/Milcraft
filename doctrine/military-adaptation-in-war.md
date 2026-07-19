@@ -33,7 +33,7 @@ Chapter: Introduction: The Background to Military Adaptation
 ## Practice 2: Study adaptation in its historical setting
 
 **Problem**  
-Lessons from past wars become misleading when people ignore their original conditions.
+Lessons from past wars become misleading when people ignore the conditions under which they were drawn.
 
 **Action**  
 Examine how each force changed within its political, social, technical, and military setting.
@@ -75,7 +75,7 @@ Chapter: Flawed Adaptation: German Adaptation: The Opening Battles of World War 
 Separate defensive units cannot use limited resources well against a changing attack.
 
 **Action**  
-Connect detection, command, communication, and combat units while using battle results to improve the system.
+Connect detection, command, communication, and combat units, and use battle results to improve the system.
 
 **Outcome**  
 Defenders can concentrate the right forces at the right time.
