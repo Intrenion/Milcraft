@@ -11,8 +11,6 @@ title: "Milcraft"
 
 **Contact us:** [Email](mailto:christian.ullrich@intrenion.com) • [LinkedIn](https://www.linkedin.com/in/christianullrich/)
 
-> **Other projects:** [Service sourcing](https://www.intrenion.com) • [Open-source military planning](https://www.milplanos.org)
-
 ### Foundations
 
 - [**On War** (Carl von Clausewitz)](/doctrine/on-war)
