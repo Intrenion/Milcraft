@@ -18,9 +18,9 @@ title: "Milcraft"
 3. Open Settings, select Voice, and set Voice to **"Live"**.
 4. Open Settings, select Voice, select Intelligence, and set it to **"Medium"**.
 5. Select **"Copy code"** in the upper-right corner of the prompt block below to copy the complete prompt to your clipboard.
-6. Open a new ChatGPT conversation and paste the prompt into the text field.
+6. Open a new ChatGPT conversation in writing mode, not Voice mode, and paste the prompt into the text field.
 7. Select **"Show in text field"** instead of uploading it as a file when ChatGPT shows the pasted prompt as an attachment.
-8. Send the prompt, then enter the book's title and author when ChatGPT asks for them.
+8. Send the prompt in writing, then type the book's title and author when ChatGPT asks for them; activate Voice mode only after completing these steps.
 9. Below the prompt, you will find a list of recommended books to help you choose where to begin.
 
 ```
