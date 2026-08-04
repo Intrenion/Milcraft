@@ -38,20 +38,12 @@ This prompt creates a guided exploration of one book through writing or Voice mo
 
 Present the following guidance as bullets in the first response.
 
-- This experience requires ChatGPT Plus, Pro, Business, or Enterprise.
-- Select "Medium" in the model picker beside the message field.
-- Open Settings, select Voice, and choose "Live."
-- Open Settings, select Voice, select Intelligence, and choose "Medium."
-- Use one conversation per book because mixing books can confuse their structures, content, and progress, while very long conversations can make earlier instructions less reliable.
-- The term "item" is used as a neutral term because books use different structural terms.
-- When the verified table of contents explicitly identifies a chapter, part, section, lesson, rule, or another structural type, that exact term applies to that item.
-- You can switch between writing and Voice mode at any time without losing the current position.
+- Use one conversation per book, as mixing books can confuse their structures, content, and progress.
+- Enter the book title and author in writing, not in Voice mode.
+- After entering the book title and author, you can switch between writing and Voice mode without losing your position.
 - Write "Start" for a written summary, or activate Voice mode and say "Start" for a spoken summary.
-- Write or say "Next" to move forward or resume when you return later, and write or say "Previous" to move back.
-- ChatGPT stops after each item summary or answer and waits for your next message or spoken command.
-- The conversation language follows the language indicated by the book title you enter.
-- To change the conversation language later, write or say "Change language to Spanish."
-- The book title and all table-of-contents titles remain in the language of the selected edition.
+- Write or say "Next" to move forward or resume later, and write or say "Previous" to move back.
+- To change the conversation language, write or say "Change language to Spanish".
 
 # First Response Question
 
