@@ -373,3 +373,130 @@ Acknowledge a clear user instruction that changes the defined behavior by writin
 - The Origins of Victory: How Disruptive Military Innovation Determines the Fates of Great Powers (Andrew F. Krepinevich Jr.)
 - Unit X: How the Pentagon and Silicon Valley Are Transforming the Future of War (Raj M. Shah et al.)
 - Wired for War: The Robotics Revolution and Conflict in the 21st Century (P. W. Singer)
+
+### Marine Corps and Related Doctrinal Publications
+
+- ACO COPD v3.0 Allied Command Operations Comprehensive Operations Planning Directive
+- ATP 3-06/MCTP 12-10B Urban Operations
+- ATP 3-07.31/MCTP 3-03B/AFTTP 3-2.40 Multi-Service Tactics, Techniques, and Procedures for Peace Operations
+- ATP 3-21.90/MCTP 3-01D Tactical Employment of Mortars
+- ATP 3-34.5/MCRP 3-40B.2 Environmental Considerations
+- ATP 3-34.40/MCTP 3-40D General Engineering
+- ATP 3-34.81/MCRP 3-34.3 Engineer Reconnaissance
+- ATP 3-37.10/MCRP 3-40D.13 Base Camps
+- ATP 3-90.98/MCTP 12-10C Jungle Operations
+- ATP 3-90.99/MCTP 12-10D Desert Operations
+- ATP 4-10/MCRP 3-40B.6/NTTP 4-09.1 Operational Contract Support
+- ATP 4-31/MCRP 3-40E.1 Ground Equipment Battle Damage Assessment, Repair, and Recovery
+- ATP 4-44/MCRP 3-40D.14 W/CH-1 Water Support Operations
+- ATTP 3-97.11/MCRP 3-35.1D Cold Region Operations
+- FM 4-25.11/NTRP 4-02.1.1/AFMAN 44-163(I)/MCRP 3-02G First Aid
+- FM 6-27/MCTP 11-10C W/CH-1 The Commander's Handbook on the Law of Land Warfare
+- JP 3-02 Amphibious Operations
+- JP 3-06 Joint Urban Operations
+- JP 3-08 Interorganizational Cooperation
+- JP 3-09 Joint Fire Support
+- JP 3-10 Joint Security Operations in Theater
+- JP 3-16 Multinational Operations
+- JP 3-18 Joint Forcible Entry Operations
+- JP 3-22 Foreign Internal Defense
+- JP 3-28 Defense Support of Civil Authorities
+- JP 3-29 Foreign Humanitarian Assistance
+- JP 3-30 Joint Air Operations
+- JP 3-34 Joint Engineer Operations
+- JP 3-57 Civil-Military Operations
+- JP 3-61 Public Affairs
+- JP 4-04 Contingency Basing
+- JP 4-05 Joint Mobilization Planning
+- MCDP 1 Warfighting
+- MCDP 1-0 w/ CH 1-3 Marine Corps Operations
+- MCDP 1-1 Strategy
+- MCDP 1-2 Campaigning
+- MCDP 1-3 Tactics
+- MCDP 1-4 Competing
+- MCDP 2 Intelligence
+- MCDP 3 Expeditionary Operations
+- MCDP 4 Logistics
+- MCDP 5 Planning
+- MCDP 6 Command and Control
+- MCDP 7 Learning
+- MCDP 8 Information
+- MCIP 3-03.1i Maritime Stability Operations
+- MCRP 2-10A.1 Signals Intelligence
+- MCRP 2-10A.5 Remote Sensor Operations
+- MCRP 2-10A.6 Ground Reconnaissance Operations
+- MCRP 2-10A.9 Air Intelligence
+- MCRP 2-10B.1 Intelligence Preparation of the Battlespace
+- MCRP 2-10B.4 Geospatial Intelligence
+- MCRP 3-03A.2 Marine Corps Air-Ground Task Force Civil-Military Operations Planning
+- MCRP 3-10A.1 Infantry Battalion Operations
+- MCRP 3-10A.2 Infantry Company Operations
+- MCRP 3-10A.3 Marine Infantry Platoon
+- MCRP 3-10A.4 Marine Rifle Squad
+- MCRP 3-10E.6 Tactics, Techniques, and Procedures for Marine Artillery Sensor Operations
+- MCRP 3-10F.2 Supporting Arms Observer, Spotter, and Controller
+- MCRP 3-20F.5 Direct Air Support Center Handbook
+- MCRP 3-20F.9 Low Altitude Air Defense (LAAD) Gunner’s Handbook
+- MCRP 3-30.7 Commander’s Tactical Handbook
+- MCRP 3-40B.5 Petroleum Operations
+- MCRP 3-40B.6 Operational Contract Support
+- MCRP 3-40G.1 Marine Corps Field Feeding Program
+- MCRP 6-10.1 Spiritual Fitness Leader's Guide
+- MCRP 7-20A.1 Training Plan Design
+- MCRP 7-20A.2 Event and Exercise Design
+- MCRP 7-20A.3 Simulation Training Guide
+- MCRP 7-20A.4 Evaluations and Assessments
+- MCRP 7-20B.1 Operational Training Ranges Required Capabilities
+- MCRP 7-20B.5 Marine Corps Water Survival
+- MCRP 8-10B.2 Rifle Marksmanship
+- MCRP 8-10B.3 Pistol Marksmanship
+- MCRP 12-10A.1 W/CH-1 Small Unit Leader’s Guide to Mountain Warfare
+- MCRP 12-10A.2, Winter Mountain Leader's Guide to Mountain Warfare
+- MCRP 12-10A.3 Mountain Leader’s Guide to Mountain Warfare Operations
+- MCRP 12-10B.1 Military Operations on Urbanized Terrain
+- MCTP 2-10A MAGTF Intelligence Collection
+- MCTP 2-10B MAGTF Intelligence Production and Analysis
+- MCTP 2-10C Marine Air-Ground Task Force Intelligence Dissemination
+- MCTP 3-01A Scouting and Patrolling
+- MCTP 3-01C Machine Guns and Machine Gun Gunnery
+- MCTP 3-03A Marine Air-Ground Task Force Civil-Military Operations
+- MCTP 3-03C MAGTF Interorganizational Coordination
+- MCTP 3-03D Security Cooperation
+- MCTP 3-10D Employment of Light Armored Reconnaissance Units
+- MCTP 3-10E Artillery Operations
+- MCTP 3-10F Fire Support Coordination in the Ground Combat Element
+- MCTP 3-20A Aviation Logistics
+- MCTP 3-20B Aviation Ground Support
+- MCTP 3-20C Antiair Warfare
+- MCTP 3-20D Offensive Air Support
+- MCTP 3-20G Air Reconnaissance
+- MCTP 3-30A Command and Staff Action
+- MCTP 3-30B Information Knowledge Management
+- MCTP 3-30E/NTTP 1-15M Combat and Operational Stress Control
+- MCTP 3-30F Marine Corps Public Affairs
+- MCTP 3-30G Marine Corps Manpower and Personnel Administration
+- MCTP 3-32F Deception
+- MCTP 3-40B Tactical Logistics
+- MCTP 3-40E Maintenance Operations
+- MCTP 3-40F Distribution and Transportation Operations
+- MCTP 6-10A Sustaining the Transformation
+- MCTP 7-20A Unit Training Guide
+- MCTP 10-10D MAGTF Explosive Ordnance Disposal
+- MCTP 10-10F Military Police Operations
+- MCTP 12-10A Mountain Warfare
+- MCTP 13-10B Combat Cargo Operations
+- MCTP 13-10C Unit Embarkation Handbook
+- MCTP 13-10D Maritime Prepositioning Force Operations
+- MCWP 2-10 Intelligence Operations
+- MCWP 3-02 Counterinsurgency
+- MCWP 3-02 Insurgencies and Countering Insurgencies
+- MCWP 3-03 Stabilization Activities
+- MCWP 3-05 Marine Corps Special Operations
+- MCWP 3-10 MAGTF Ground Operations
+- MCWP 3-31 Marine Air-Ground Task Force Fires and Effects
+- MCWP 3-40 Marine Corps Logistics
+- MCWP 5-10 w/ CH-1 Marine Corps Planning Process
+- MCWP 6-10 Leading Marines
+- NTRP 4-04.2.3/TM 3-34.41/MCRP 3-40D.12 Construction Estimating
+- NTRP 4-04.2.5/TM 3-34.42/AFPAM 32-1020/MCRP 3-40D.6 Construction Project Management
+- NTTP 4-02.2M/MCRP 3-40A.7 Patient Movement
